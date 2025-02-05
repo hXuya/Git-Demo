@@ -5,3 +5,5 @@
 // add.bijod(8,2)
 
 (() => console.log(1+2))()
+
+console.log("hello")
